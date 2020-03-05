@@ -1,0 +1,2 @@
+Alpine Linux package management: https://wiki.alpinelinux.org/wiki/Alpine_Linux_package_management
+Overview of docker-compose CLI: https://docs.docker.com/compose/reference/overview/
