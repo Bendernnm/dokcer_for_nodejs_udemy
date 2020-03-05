@@ -1,2 +1,6 @@
-Alpine Linux package management: https://wiki.alpinelinux.org/wiki/Alpine_Linux_package_management
+Course git: https://github.com/BretFisher/docker-mastery-for-nodejs
+
+YAML validator: https://codebeautify.org/yaml-validator
+Overview of Docker Compose: https://docs.docker.com/compose/
 Overview of docker-compose CLI: https://docs.docker.com/compose/reference/overview/
+Alpine Linux package management: https://wiki.alpinelinux.org/wiki/Alpine_Linux_package_management
