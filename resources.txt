@@ -5,3 +5,7 @@ Overview of Docker Compose: https://docs.docker.com/compose/
 Overview of docker-compose CLI: https://docs.docker.com/compose/reference/overview/
 Alpine Linux package management: https://wiki.alpinelinux.org/wiki/Alpine_Linux_package_management
 How To Remove Docker Containers, Images, Volumes, and Networks: https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/#remove-one-or-more-images
+
+Docker hub: https://hub.docker.com/
+CentOS: https://hub.docker.com/_/centos
+Nodejs: https://hub.docker.com/_/node
