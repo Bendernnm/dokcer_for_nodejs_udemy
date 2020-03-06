@@ -9,3 +9,6 @@ How To Remove Docker Containers, Images, Volumes, and Networks: https://linuxize
 Docker hub: https://hub.docker.com/
 CentOS: https://hub.docker.com/_/centos
 Nodejs: https://hub.docker.com/_/node
+
+Use multi-stage builds: https://docs.docker.com/develop/develop-images/multistage-build/
+Advanced multi-stage build patterns: https://medium.com/@tonistiigi/advanced-multi-stage-build-patterns-6f741b852fae
